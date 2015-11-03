@@ -32,7 +32,7 @@ time,event,value,comment
 1:40:16,boiler,2050,
 1:40:18,boiler,2100,
 1:40:34,mph,80,
-1:40:41,landmark,track ends in 1/4 mile sign
+1:40:41,landmark,track ends in 1/4 mile sign,
 1:40:48,mph,82,
 1:41:37,mph,84,
 1:41:38,mph,85,
