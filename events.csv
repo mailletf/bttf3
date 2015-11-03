@@ -1,0 +1,42 @@
+time,event,value,comment
+1:34:39,boiler,0
+1:34:39,mph,0,starting slowly
+1:35:24,mph,25,cruising steady
+1:35:41,boiler,600
+1:35:51,boiler,750
+1:36:07,boiler,750
+1:36:08,log,green
+1:36:18,mph,35
+1:36:50,boiler,1250
+1:36:54,boiler,1350
+1:36:54,log,yellow
+1:37:01,mph,40
+1:37:02,mph,41
+1:37:42,mph,45
+1:37:45,boiler,1600
+1:37:55,mph,50
+1:37:59,landmark,clara
+1:38:24,landmark,windmill
+1:39:01,mph,59
+1:39:02,mph,60
+1:39:23,mph,69
+1:39:24,mph,70
+1:39:33,boiler,1900
+1:39:43,mph,72
+1:39:44,boiler,1950
+1:39:47,boiler,1975
+1:39:49,boiler,2000
+1:39:49,log,red
+1:39:58,mph,73
+1:39:59,mph,75
+1:40:16,boiler,2050
+1:40:18,boiler,2100
+1:40:34,mph,80
+1:40:41,landmark,track ends in 1/4 mile sign
+1:40:48,mph,82
+1:41:37,mph,84
+1:41:38,mph,85
+1:41:39,mph,86
+1:41:43,mph,87
+1:41:44,mph,88
+1:41:47,landmark,THE FUTURE
